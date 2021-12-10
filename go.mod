@@ -1,6 +1,6 @@
-module github.com/liunian1004/z
+module github.com/aizk/z
 
-go 1.14
+go 1.16
 
 require (
 	github.com/satori/go.uuid v1.2.0
