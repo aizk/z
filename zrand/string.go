@@ -1,4 +1,4 @@
-package rand_u
+package zrand
 
 import (
 	"math/rand"

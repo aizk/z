@@ -1,4 +1,4 @@
-package regex_u
+package zregex
 
 import (
 	"regexp"

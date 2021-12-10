@@ -1,4 +1,4 @@
-package slice_u
+package zslice
 
 import (
 	"unsafe"

@@ -1,4 +1,4 @@
-package slice_u
+package zslice
 
 func EqualSlice(x, y []interface{}) bool {
 	if len(x) != len(y) {

@@ -1,4 +1,4 @@
-package crypto_u
+package zcrypto
 
 import (
 	"crypto/md5"

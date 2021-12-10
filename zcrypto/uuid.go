@@ -1,4 +1,4 @@
-package crypto_u
+package zcrypto
 
 import (
 	"github.com/satori/go.uuid"
