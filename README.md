@@ -24,6 +24,13 @@ wrap of slice。
 - map、reduce...
 - filter...
 
+## Chunk(slice, num) slice
+
+```go
+s := []int{1, 2, 3, 4, 5}
+n := Chunk(s, 2) // [[1, 2], [3, 4], [5]]
+```
+
 # zos
 
 - `Exist(path string)` 判断文件或目录是否存在
